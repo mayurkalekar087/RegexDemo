@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.exe
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.deps.json
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.runtimeconfig.json
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.dll
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\bin\Debug\netcoreapp3.1\RegexPatternMatchingDemo.pdb
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.dll
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.pdb
+C:\Users\ASUS\source\repos\RegexPatternMatchingDemo\RegexPatternMatchingDemo\obj\Debug\netcoreapp3.1\RegexPatternMatchingDemo.genruntimeconfig.cache
